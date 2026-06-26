@@ -7,7 +7,7 @@ class Ball(Turtle):
         self.color("white")
         self.penup()
         self.x_move = 7
-        self.y_move = 7
+        self. y_move = 7
         self.move_speed = 0.1
 
     def start(self):
